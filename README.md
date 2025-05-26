@@ -9,4 +9,16 @@
 
 - **Foreign Key**: A field in one table that refers to the primary key in another table, creating a link between the two tables and ensuring referential integrity.
 
+# 4. What is the difference between the VARCHAR and CHAR data types?
+
+
+- **VARCHAR(n)** stores variable-length strings up to length n. It uses only as much space as needed.
+
+- **CHAR(n)** stores fixed-length strings of length n. If the string is shorter, it pads with spaces.
+
+# 5. Explain the purpose of the WHERE clause in a SELECT statement.
+
+## The WHERE clause filters the rows returned by a SELECT query based on a specified condition, so you get only the data that matches your criteria.
+
+
 
