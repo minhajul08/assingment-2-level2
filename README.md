@@ -5,8 +5,8 @@
 
 # 3. Explain the Primary Key and Foreign Key concepts in PostgreSQL.
 
-Primary Key: A unique identifier for each row in a table. It ensures no duplicate rows and that every record can be uniquely identified.
+- **Primary Key**: A unique identifier for each row in a table. It ensures no duplicate rows and that every record can be uniquely identified.
 
-Foreign Key: A field in one table that refers to the primary key in another table, creating a link between the two tables and ensuring referential integrity.
+- **Foreign Key**: A field in one table that refers to the primary key in another table, creating a link between the two tables and ensuring referential integrity.
 
 
